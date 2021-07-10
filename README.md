@@ -9,4 +9,4 @@ ACG pianist, Coding for fun.
 
 [![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone)](https://github.com/NeroBlackstone/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&hide=css,html)](https://github.com/NeroBlackstone/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&hide=css,html,Nunjucks)](https://github.com/NeroBlackstone/github-readme-stats)
