@@ -5,7 +5,7 @@ ACG pianist, Coding for fun.
 🌱 I’m currently learning
 - Appwrite
 - Svelte
-- Deno Runtime
+- Deno
 
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&theme=dark)
 
