@@ -1,11 +1,14 @@
 # NeroBlackstone
 
-ACG pianist, Coding for fun.
+ACG pianist, coding for fun.
 
 🌱 I’m currently learning
 - Appwrite
 - Svelte
 - Deno
+
+😊 I did these interesting things:
+- [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
 
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&theme=dark)
 
