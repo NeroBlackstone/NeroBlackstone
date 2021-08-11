@@ -6,6 +6,7 @@ ACG pianist, coding for fun.
 - Appwrite
 - Svelte
 - Deno
+- Jetpack Compose
 
 😊 I did these interesting things:
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
