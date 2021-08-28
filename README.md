@@ -13,6 +13,6 @@ ACG pianist, coding for fun.
 
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&langs_count=10&hide=css,html,Nunjucks,Sass,Scss&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&layout=compact&langs_count=10&hide=css,html,Nunjucks,Sass,Scss&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeroBlackstone)](https://github.com/ryo-ma/github-profile-trophy)
