@@ -15,4 +15,4 @@ ACG pianist, coding for fun.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&layout=compact&langs_count=10&hide=css,html,Nunjucks,Sass,Scss&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NeroBlackstone)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NeroBlackstone&row=1)](https://github.com/ryo-ma/github-profile-trophy)
