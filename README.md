@@ -10,6 +10,7 @@ ACG pianist, coding for fun.
 
 😊 I did these interesting things:
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
+- [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markmap plugin for markdown-it
 
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&theme=dark)
 
