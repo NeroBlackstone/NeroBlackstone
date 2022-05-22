@@ -3,10 +3,8 @@
 ACG pianist, coding for fun.
 
 🌱 I’m currently learning
-- Appwrite
-- Svelte
-- Deno
-- Jetpack Compose
+- Reinforcement Learning
+- Julia
 
 😊 I did these interesting things:
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
