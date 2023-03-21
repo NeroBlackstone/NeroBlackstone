@@ -1,5 +1,7 @@
 # NeroBlackstone
 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=1&theme=catppuccin_mocha&line1=Julia,Julia,ebae26;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=1&theme=catppuccin_mocha&line1=Julia,Julia,ebae26;)
+
 ACG pianist, coding for fun.
 
 🌱 I’m currently learning
