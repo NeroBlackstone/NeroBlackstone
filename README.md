@@ -9,6 +9,7 @@ ACG pianist, coding for fun.
 - Julia
 
 😊 I did these interesting things:
+- [JuliaMusic/PianoFingering.jl](https://github.com/JuliaMusic/PianoFingering.jl): Automatic fingering generator for piano scores.
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
 - [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markdown-it plugin for markmap.
 
