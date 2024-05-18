@@ -9,6 +9,9 @@ ACG pianist, coding for fun.
 - Julia
 
 😊 I did these interesting things:
+- [SteamWebAPIs.jl](https://github.com/NeroBlackstone/SteamWebAPIs.jl): Julia wrappers for Steam Web API.
+- [TheMovieDB.jl](https://github.com/NeroBlackstone/TheMovieDB.jl): Julia wrappers for TheMovieDB API v3.
+- [NamSor.jl](https://github.com/NeroBlackstone/NamSor.jl): Julia wrappers for NamSor API v2.
 - [JuliaMusic/PianoFingering.jl](https://github.com/JuliaMusic/PianoFingering.jl): Automatic fingering generator for piano scores.
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.
 - [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markdown-it plugin for markmap.
