@@ -9,6 +9,7 @@ ACG pianist, coding for fun.
 - Julia
 
 😊 I did these interesting things:
+- [PianoHands](https://github.com/JuliaMusic/PianoHands.jl): Predicting hand assignments in piano MIDI using neural networks
 - [D2lJulia](https://github.com/NeroBlackstone/D2lJulia):Dive into Deep Learning, with Julia programming language and Flux.jl.
 - [SteamWebAPIs.jl](https://github.com/NeroBlackstone/SteamWebAPIs.jl): Julia wrappers for Steam Web API.
 - [TheMovieDB.jl](https://github.com/NeroBlackstone/TheMovieDB.jl): Julia wrappers for TheMovieDB API v3.
