@@ -1,6 +1,6 @@
 # NeroBlackstone
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=julia%2CJulia%2C9558B2%3BKotlin%2CKotlin%2C7F52FF%3BGo%2CGo%2C00ADD8%3BTypeScript%2CTypeScript%2C3178C6%3BSvelte%2CSvelte%2CFF3E00%3BVue.js%2CVue.js%2C4FC08D%3B)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=julia%2CJulia%2C9558B2%3BKotlin%2CKotlin%2C7F52FF%3BGo%2CGo%2C00ADD8%3BTypeScript%2CTypeScript%2C3178C6%3BSvelte%2CSvelte%2CFF3E00%3BVue.js%2CVue.js%2C4FC08D%3B)
 
 Fullstack Developer.
 
