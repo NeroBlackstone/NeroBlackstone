@@ -17,6 +17,15 @@ My opensource
 - [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.（为音乐家编写的博客模板，支持markdown中插入musicxml乐谱和midi可视化（已废弃，采用了早期的lume版本））
 - [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markdown-it plugin for markmap.（markdown-it的思维导图插件(不再维护)）
 
+- [chordcat SFML3 update](https://github.com/shriramters/chordcat/releases/tag/v0.5.0): Migrating chordcat to SFML3. 将chordcat从SFML2.5跨大版本完整迁移到了SFML3.
+- [MIDI.jl](https://github.com/JuliaMusic/MIDI.jl/releases/tag/v2.7.0) Maintain midi.jl versions 2.3 to 2.7. 维护Julia MIDI解析库MIDI.jl 2.3的2.7版本，加入了一些新的实用特性
+- [Lux.jl](https://github.com/LuxDL/Lux.jl/releases/tag/v0.5.60)Implemented Bidirectional RNN layer and ReverseSequence layer. 在Julia的深度学习框架Lux.jl中实现了ReverseSequence层和bi-RNN层（双向循环神经网络层），bi-RNN层的实现提供了和Keras3完全等价的API.
+- [Serde.jl](https://github.com/bhftbootcamp/Serde.jl/releases/tag/v3.2.0)Implemented stable CSV serialization and improved CSV serialization performance. The new implementation reduces time and memory usage by half.为Julia的序列化/反序列化库实现了稳定的csv序列化，并且提高了csv序列化性能，新的实现下时间和内存占用均减半。
+- [Julia](https://github.com/JuliaLang/julia/)Added music symbol unicode completion to the Julia REPL. 为Julia REPL添加了音乐符号unicode补全。
+- [OpenAPI.jl](https://github.com/JuliaComputing/OpenAPI.jl/releases/tag/v0.1.15)Minor bug fixes and features. Julia的OpenAPI客户端中微小的bug修复和特性功能。
+- [TabularTDLearning.jl](https://github.com/JuliaPOMDP/TabularTDLearning.jl/releases/tag/v0.4.4)Implemented prioritized sweeping solver for TabularTDLearning.jl. 为POMDPs.jl的表格时序差分学习求解器库贡献了Prioritizied Sweeping求解器.
+- [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl/releases/tag/v0.9.6)Implements various features for POMDPs.jl. 为Julia的部分可见马尔可夫决策过程库实现了诸多特性。
+
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroBlackstone&layout=compact&langs_count=10&hide=css,html,Nunjucks,Sass,Scss,Stylus&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
