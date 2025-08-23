@@ -6,16 +6,9 @@ Fullstack Developer.
 
 全栈开发者。
 
-My opensource 
+My open source contributions:
 
-我的主要开源贡献：
-
-- [PianoHands](https://github.com/JuliaMusic/PianoHands.jl): Predicting hand assignments in piano MIDI using neural networks。使用神经网络预测实时录制的钢琴MIDI信号中的双手分配。（使用Julia和Lux.jl实现）
-- [D2lJulia](https://github.com/NeroBlackstone/D2lJulia):Dive into Deep Learning, with Julia programming language and Flux.jl/Lux.jl.（使用Julia和Lux.jl/Flux.jl重写经典深度学习教材Dive into Deep Learning中的示例代码（英文））
-- [SteamWebAPIs.jl](https://github.com/NeroBlackstone/SteamWebAPIs.jl): Julia wrappers for Steam Web API. （Julia的SteamWebApi客户端）
-- [JuliaMusic/PianoFingering.jl](https://github.com/JuliaMusic/PianoFingering.jl): Automatic fingering generator for piano scores.（基于强化学习的自动钢琴指法标注工具（不再更新，等待学术界的高质量钢琴指法数据集，并迁移到深度学习+运行时推理约束的实现））
-- [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.（为音乐家编写的博客模板，支持markdown中插入musicxml乐谱和midi可视化（已废弃，采用了早期的lume版本））
-- [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markdown-it plugin for markmap.（markdown-it的思维导图插件(不再维护)）
+我的开源贡献：
 
 - [chordcat SFML3 update](https://github.com/shriramters/chordcat/releases/tag/v0.5.0): Migrating chordcat to SFML3. 将chordcat从SFML2.5跨大版本完整迁移到了SFML3.
 - [MIDI.jl](https://github.com/JuliaMusic/MIDI.jl/releases/tag/v2.7.0) Maintain midi.jl versions 2.3 to 2.7. 维护Julia MIDI解析库MIDI.jl 2.3的2.7版本，加入了一些新的实用特性
@@ -25,6 +18,17 @@ My opensource
 - [OpenAPI.jl](https://github.com/JuliaComputing/OpenAPI.jl/releases/tag/v0.1.15)Minor bug fixes and features. Julia的OpenAPI客户端中微小的bug修复和特性功能。
 - [TabularTDLearning.jl](https://github.com/JuliaPOMDP/TabularTDLearning.jl/releases/tag/v0.4.4)Implemented prioritized sweeping solver for TabularTDLearning.jl. 为POMDPs.jl的表格时序差分学习求解器库贡献了Prioritizied Sweeping求解器.
 - [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl/releases/tag/v0.9.6)Implements various features for POMDPs.jl. 为Julia的部分可见马尔可夫决策过程库实现了诸多特性。
+
+My open source Project:
+
+我的开源项目：
+
+- [PianoHands](https://github.com/JuliaMusic/PianoHands.jl): Predicting hand assignments in piano MIDI using neural networks。使用神经网络预测实时录制的钢琴MIDI信号中的双手分配。（使用Julia和Lux.jl实现）
+- [D2lJulia](https://github.com/NeroBlackstone/D2lJulia):Dive into Deep Learning, with Julia programming language and Flux.jl/Lux.jl.（使用Julia和Lux.jl/Flux.jl重写经典深度学习教材Dive into Deep Learning中的示例代码（英文））
+- [SteamWebAPIs.jl](https://github.com/NeroBlackstone/SteamWebAPIs.jl): Julia wrappers for Steam Web API. （Julia的SteamWebApi客户端）
+- [JuliaMusic/PianoFingering.jl](https://github.com/JuliaMusic/PianoFingering.jl): Automatic fingering generator for piano scores.（基于强化学习的自动钢琴指法标注工具（不再更新，等待学术界的高质量钢琴指法数据集，并迁移到深度学习+运行时推理约束的实现））
+- [lume-blog-muse](https://github.com/NeroBlackstone/lume-blog-muse): A blog template for musicians.（为音乐家编写的博客模板，支持markdown中插入musicxml乐谱和midi可视化（已废弃，采用了早期的lume版本））
+- [markdown-it-mindmap](https://github.com/NeroBlackstone/markdown-it-mindmap): A markdown-it plugin for markmap.（markdown-it的思维导图插件(不再维护)）
 
 ![NeroBlackstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroBlackstone&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
