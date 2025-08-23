@@ -23,6 +23,7 @@ My open source Project:
 
 我的开源项目：
 
+- [AUR packages](https://aur.archlinux.org/packages?K=NeroBlackstone&SeB=m)： AUR packages I maintain. 我维护的Arch Linux AUR包.
 - [PianoHands](https://github.com/JuliaMusic/PianoHands.jl): Predicting hand assignments in piano MIDI using neural networks。使用神经网络预测实时录制的钢琴MIDI信号中的双手分配。（使用Julia和Lux.jl实现）
 - [D2lJulia](https://github.com/NeroBlackstone/D2lJulia): Dive into Deep Learning, with Julia programming language and Flux.jl/Lux.jl.使用Julia和Lux.jl/Flux.jl重写经典深度学习教材Dive into Deep Learning中的示例代码（英文）
 - [SteamWebAPIs.jl](https://github.com/NeroBlackstone/SteamWebAPIs.jl): Julia wrappers for Steam Web API. （Julia的SteamWebApi客户端）
