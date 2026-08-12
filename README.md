@@ -23,6 +23,12 @@ My open source Project:
 
 我的开源项目：
 
+- [canon-score-midi](https://github.com/NeroBlackstone/canon-score-midi): A tool to convert canon-score.com purchased score data into MIDI files.一个将canon-score.com)已购乐谱数据转换为 MIDI 文件的工具。
+- [nano-chatbot](https://github.com/NeroBlackstone/nano-chatbot): LLM qq chatbot running on Android termux. 在安卓termux上运行的llm聊天机器人，对接qq应用
+- [modern-go-micro-services](https://github.com/NeroBlackstone/modern-go-micro-services): Learning modern Golang microservices. 学习现代golang微服务
+- [open-dfo-login](https://github.com/NeroBlackstone/open-dfo-login)：Cross-platform DFO CLI launcher. 跨平台DFO单机CLI登陆器。
+- [dfo-npk-extractor-bun](https://github.com/NeroBlackstone/dfo-npk-extractor-bun): DFO跨平台资源解析器。解包NPK/PVF/AVI等专有格式。
+- [tuborkey-linux](https://github.com/NeroBlackstone/tuborkey-linux): Linux keyboard autofire tool. Linux键盘按键连发工具
 - [AUR packages](https://aur.archlinux.org/packages?K=NeroBlackstone&SeB=m)： AUR packages I maintain. 我维护的Arch Linux AUR包.
 - [PianoHands](https://github.com/JuliaMusic/PianoHands.jl): Predicting hand assignments in piano MIDI using neural networks。使用神经网络预测实时录制的钢琴MIDI信号中的双手分配。（使用Julia和Lux.jl实现）
 - [D2lJulia](https://github.com/NeroBlackstone/D2lJulia): Dive into Deep Learning, with Julia programming language and Flux.jl/Lux.jl.使用Julia和Lux.jl/Flux.jl重写经典深度学习教材Dive into Deep Learning中的示例代码（英文）
